@@ -3,7 +3,6 @@ import { productReducer } from "./reducers/productReducer";
 
 
 const store = () => {
-  
 }
 
 export default store
