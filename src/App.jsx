@@ -1,11 +1,12 @@
 import { useState } from 'react'
 import './App.css'
+import QRCodeComponent from './QrCodeComponent'
 
 function App() {
 
   return (
     <>
-      <div className='text-blue-700'>Hello</div>
+      <QRCodeComponent/>
     </>
   )
 }
